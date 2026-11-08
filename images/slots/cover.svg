@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img">
+<rect width="1600" height="900" fill="#F2EBDD"/>
+<rect x="0" y="0" width="1600" height="900" fill="#FBF7EE" opacity=".55"/>
+<g><polygon points="1243,509 1810,545 1765,810 1291,780" fill="#C97B5A" opacity="0.38"/><polygon points="1148,504 1608,540 1571,891 1196,852" fill="#8A9A78" opacity="0.5"/><polygon points="1006,118 1545,154 1502,439 1054,407" fill="#D9C6A5" opacity="0.62"/><polygon points="427,584 876,620 840,870 475,841" fill="#C97B5A" opacity="0.38"/><polygon points="649,581 1128,617 1090,720 697,707" fill="#8A9A78" opacity="0.5"/><circle cx="916" cy="714" r="56" fill="none" stroke="#3E4A3D" stroke-width="2" opacity=".35"/><circle cx="1288" cy="465" r="56" fill="none" stroke="#3E4A3D" stroke-width="2" opacity=".35"/><circle cx="578" cy="807" r="56" fill="none" stroke="#3E4A3D" stroke-width="2" opacity=".35"/><path d="M128,792 L1472,648" stroke="#3E4A3D" stroke-width="1.5" opacity=".35"/></g>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="0.055"/></feComponentTransfer></filter><rect width="1600" height="900" filter="url(#grain)" opacity="0.55"/>
+<rect x="12" y="12" width="1576" height="876" fill="none" stroke="#3E4A3D" stroke-width="1" opacity=".18"/>
+</svg>

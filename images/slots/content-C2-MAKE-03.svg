@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img">
+<rect width="1200" height="900" fill="#EFE9DE"/>
+<rect x="0" y="0" width="1200" height="900" fill="#FAF6EC" opacity=".55"/>
+<g><rect x="72" y="666" width="1056" height="11" fill="#2F3A33" opacity=".35"/><rect x="192" y="432" width="240" height="234" fill="#6E7B6B" opacity=".55"/><rect x="216" y="432" width="240" height="36" fill="#2F3A33" opacity=".35"/><circle cx="744" cy="558" r="108" fill="#B86B4B" opacity=".48"/><rect x="720" y="558" width="48" height="108" fill="#B86B4B" opacity=".55"/><path d="M576,396 q48,-108 96,0" fill="none" stroke="#2F3A33" stroke-width="2" opacity=".45"/><circle cx="960" cy="504" r="27" fill="#2F3A33" opacity=".35"/></g>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope="0.055"/></feComponentTransfer></filter><rect width="1200" height="900" filter="url(#grain)" opacity="0.55"/>
+<rect x="12" y="12" width="1176" height="876" fill="none" stroke="#2F3A33" stroke-width="1" opacity=".18"/>
+</svg>
